@@ -1,0 +1,5 @@
+$variable = "Max";
+$number = 132;
+$name = "$variable";
+echo "$name is coding";
+echo "$name $number is checking how \"brackets\" work"
